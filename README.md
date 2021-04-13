@@ -8,3 +8,5 @@ I love Go programming language and focused on helping companies moving forward.�
 - 📚 Also you can check out [some books I have read](https://idexter.dev/read/) which made me who I'm today.
 - 🗣 If you know Russian, you can check out [some of my talks](https://idexter.dev/talks/).
 - Also you can check out my Telegram Channel called [Dependency Hell](https://t.me/dependencyhell) 🇷🇺.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=idexter)
