@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Anton. 
-I’m an experienced business-oriented DevOps Architect 💻 with Software Engineering and Management experience from Kazan / Russia 🇷🇺. 
-I'm focused to help companies moving forward using SRE and implementing DevOps culture. Also I love Go programming language.💎
+I’m an experienced business-oriented **Site Reliability Engineer (SRE)** 💻 with **Software Engineering** and **Engineering Management** experience from Kazan / Russia 🇷🇺. 
+I'm focused to help companies moving forward using **SRE** and implementing **DevOps** culture. Also I love **Go** programming language.💎
 
 - ℹ️ You can read more about me and problems I can solve at [my home page](https://idexter.dev/about).
 - 📚 Also you can check out [some books I have read](https://idexter.dev/read/) which made me who I'm today.
